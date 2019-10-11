@@ -1,5 +1,5 @@
-# hello-world
-time-horned project, just for test
+//# hello-world
+//time-horned project, just for test
 #include <stdio.h>
 int main()
 {
