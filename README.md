@@ -1,8 +1,16 @@
 //# hello-world
 //time-horned project, just for test
-#include <stdio.h>
+//#include <stdio.h>
+//int main()
+//{
+//    printf("Hello world!");
+//     reutrn 1;
+//}
+
+
+#include <iosteam>
 int main()
 {
-     printf("Hello world!");
-     reutrn 1;
+     cout<<"Hello world!";
+     return 1;
 }
